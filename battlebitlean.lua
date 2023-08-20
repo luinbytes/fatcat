@@ -17,6 +17,7 @@ local battlebitlean = {
     timer = 0,
     flip = false,
 }
+
 function battlebitlean.on_worker()
     if not battlebitlean.jiggle_need_keybind then
         if battlebitlean.input:is_key_down(1) then
