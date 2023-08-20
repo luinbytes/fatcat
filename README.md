@@ -6,15 +6,13 @@
 
 Lua's I've made/worked on for Fantasy.cat's lua engine.
 
-
 ## Contents
 
 - BattleBit RCS
 - BattleBit Jiggle
 - BattleBit Aim
 
-
 ## Authors
 
 - Git: [@luinbytes](https://www.github.com/luinbytes) | Constelia.ai link: [@lu.](https://constelia.ai/forums/index.php?members/lu.10433/)
-
+- Git: [@joshcancode](https://www.github.com/joshcancode) | Constelia.ai link: [@lu.](https://constelia.ai/forums/index.php?members/joshcantcode.10053/)
