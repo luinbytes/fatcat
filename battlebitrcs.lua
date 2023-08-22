@@ -63,7 +63,7 @@ function battlebitrcs.on_worker()
         local rounded_delay = math.floor(battlebitrcs.accumulated_delay)
         battlebitrcs.accumulated_delay = battlebitrcs.accumulated_delay - rounded_delay
         if math.random(0, 10) >= 2 then
-            battlebitrcs.random_x = math.random(-2, 2)
+            battlebitrcs.random_x = math.random(-1, 1)
         else
             battlebitrcs.random_x = 0
         end
